@@ -1,6 +1,9 @@
 Preview :
-
 https://imgur.com/a/niw2Mlq
+![Capture d’écran 2024-11-09 111309](https://github.com/user-attachments/assets/c680045b-c5a7-4948-85a1-79151afffc4f)
+![Capture d’écran 2024-11-09 110433](https://github.com/user-attachments/assets/5f9ac94f-68df-44c3-aa66-188ac29ffd05)
+![Capture d’écran 2024-11-09 110420](https://github.com/user-attachments/assets/48464377-dc46-4ec7-8dcf-69bf826591ef)
+
 
 📦 QB Inventory
 This script is coded to run smoothly when your inventories change without any problems.
